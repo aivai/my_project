@@ -20,5 +20,3 @@ p4 = (2,3)
 
 print distance_between_points_2d(p3,p4)
 
-def print_hi():
-    print 'hi'
