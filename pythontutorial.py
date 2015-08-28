@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+git# -*- coding: utf-8 -*-
 """
 Created on Mon Aug 24 15:16:17 2015
 
@@ -20,3 +20,5 @@ p4 = (2,3)
 
 print distance_between_points_2d(p3,p4)
 
+def print_hello():
+    print 'hellooooo'
